@@ -1,44 +1,1 @@
-ClassId,SignName
-0,Speed limit (20km/h)
-1,Speed limit (30km/h)
-2,Speed limit (50km/h)
-3,Speed limit (60km/h)
-4,Speed limit (70km/h)
-5,Speed limit (80km/h)
-6,End of speed limit (80km/h)
-7,Speed limit (100km/h)
-8,Speed limit (120km/h)
-9,No passing
-10,No passing for vechiles over 3.5 metric tons
-11,Right-of-way at the next intersection
-12,Priority road
-13,Yield
-14,Stop
-15,No vechiles
-16,Vechiles over 3.5 metric tons prohibited
-17,No entry
-18,General caution
-19,Dangerous curve to the left
-20,Dangerous curve to the right
-21,Double curve
-22,Bumpy road
-23,Slippery road
-24,Road narrows on the right
-25,Road work
-26,Traffic signals
-27,Pedestrians
-28,Children crossing
-29,Bicycles crossing
-30,Beware of ice/snow
-31,Wild animals crossing
-32,End of all speed and passing limits
-33,Turn right ahead
-34,Turn left ahead
-35,Ahead only
-36,Go straight or right
-37,Go straight or left
-38,Keep right
-39,Keep left
-40,Roundabout mandatory
-41,End of no passing
-42,End of no passing by vechiles over 3.5 metric tons
+ClassId,SignName,OriginalSignName0,Speed limit (20km/h),Speed limit (20km/h)1,Speed limit (30km/h),Speed limit (30km/h)2,Speed limit (50km/h),Speed limit (50km/h)3,Speed limit (60km/h),Speed limit (60km/h)4,Speed limit (70km/h),Speed limit (70km/h)5,Speed limit (80km/h),Speed limit (80km/h)6,End of speed limit (80km/h),End of speed limit (80km/h)7,Speed limit (100km/h),Speed limit (100km/h)8,Speed limit (120km/h),Speed limit (120km/h)9,No passing,No passing10,No passing (3.5+  tons),No passing for vechiles over 3.5 metric tons11,Right-of-way next intersection,Right-of-way at the next intersection12,Priority road,Priority road13,Yield,Yield14,Stop,Stop15,No vechiles,No vechiles16,No Vechiles 3.5+ tons,Vechiles over 3.5 metric tons prohibited17,No entry,No entry18,General caution,General caution19,Dangerous curve to the left,Dangerous curve to the left20,Dangerous curve to the right,Dangerous curve to the right21,Double curve,Double curve22,Bumpy road,Bumpy road23,Slippery road,Slippery road24,Road narrows on the right,Road narrows on the right25,Road work,Road work26,Traffic signals,Traffic signals27,Pedestrians,Pedestrians28,Children crossing,Children crossing29,Bicycles crossing,Bicycles crossing30,Beware of ice/snow,Beware of ice/snow31,Wild animals crossing,Wild animals crossing32,"End of all speed, passing limits",End of all speed and passing limits33,Turn right ahead,Turn right ahead34,Turn left ahead,Turn left ahead35,Ahead only,Ahead only36,Go straight or right,Go straight or right37,Go straight or left,Go straight or left38,Keep right,Keep right39,Keep left,Keep left40,Roundabout mandatory,Roundabout mandatory41,End of no passing,End of no passing42,End of no passing 3.5+  tons,End of no passing by vechiles over 3.5 metric tons
